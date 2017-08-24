@@ -1,2 +1,2 @@
-# newsfeed
-A twitter bot for retrieving news headlines from popular news websites
+# NewsFeed
+A telegram bot for retrieving news headlines from popular news websites
